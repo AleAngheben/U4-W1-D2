@@ -6,6 +6,8 @@ public class Main {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
+
+        //ESERCIZIO 1
         System.out.println("Esercizio 1");
 
         System.out.println("prima richiesta");
@@ -15,11 +17,13 @@ public class Main {
         System.out.println(annoBisestile(2023));
         System.out.println("");
 
+        //ESERCIZIO 2
         System.out.println("Esercizio 2");
         stampaInLettere(9);
 
         System.out.println("");
 
+        //ESERCIZIO 3
         System.out.println("Esercizio 3");
         Scanner scanner= new Scanner(System.in);
         while(true){
@@ -36,6 +40,7 @@ public class Main {
 
         System.out.println("");
 
+        //ESERCIZIO 4
         System.out.println("Esercizio 4");
         contoRovescia(5);
     }
