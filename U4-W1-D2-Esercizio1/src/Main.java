@@ -17,6 +17,8 @@ System.out.println("");
         stampaInLettere(9);
 
         System.out.println("Esercizio 3");
+
+
         System.out.println("Esercizio 4");
     }
 
