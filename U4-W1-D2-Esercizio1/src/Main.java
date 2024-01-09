@@ -48,7 +48,7 @@ public class Main {
 
     //ESERCIZIO 1
 
-    //PRIMA PARTE ES1
+    //PRIMA PARTE ES 1
     public static boolean stringaPariDispari(String a){
 
         if(a.length() % 2 == 0 ){
@@ -57,7 +57,7 @@ public class Main {
             return false;
         }
     }
-//SECONDA PARTE ES1
+//SECONDA PARTE ES 1
     public static boolean annoBisestile(int b){
         if( b%4==0 || b%100==0 && b% 400==0){
             return true;
